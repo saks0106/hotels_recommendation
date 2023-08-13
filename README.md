@@ -1,0 +1,1 @@
+This project is about Recommending Hotels based on User Preferences
